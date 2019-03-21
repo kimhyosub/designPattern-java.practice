@@ -23,9 +23,5 @@ public class Application {
 		colleague1.sendData("AAA");
 		colleague2.sendData("BBB");
 		colleague3.sendData("CCC");
-		
-		
-		
-		
 	}
 }
